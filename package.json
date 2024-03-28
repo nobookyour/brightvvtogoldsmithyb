@@ -1,0 +1,33 @@
+{
+  "name": "brightvvtogoldsmithyb",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "brightvvtogoldsmithyb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nobookyour/brightvvtogoldsmithyb"
+  },
+  "website": "https://github.com/nobookyour/brightvvtogoldsmithyb.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nobookyour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobookyour/brightvvtogoldsmithyb/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nobookyour/brightvvtogoldsmithyb#readme",
+  "dependencies": {
+    "christianstanfordxa": "1.0.2"
+  }
+}
